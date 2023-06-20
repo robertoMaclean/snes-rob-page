@@ -1,0 +1,56 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/rob-blog/</id>
+  <title>Rob Blog</title>
+  <subtitle>This is Rob Blog for write funny things and other fucking things.</subtitle>
+  <updated>2023-02-03T12:03:58-03:00</updated>
+  <author>
+    <name>Roberto Mac lean M.</name>
+    <uri>http://localhost:4000/rob-blog/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/rob-blog/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es-ES"
+    href="http://localhost:4000/rob-blog/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Roberto Mac lean M. </rights>
+  <icon>/rob-blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/rob-blog/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/rob-blog/posts/hello-world/" rel="alternate" type="text/html" title="Hello World" />
+    <published>2023-02-03T00:00:00-03:00</published>
+  
+    <updated>2023-02-03T00:00:00-03:00</updated>
+  
+    <id>http://localhost:4000/rob-blog/posts/hello-world/</id>
+    <content src="http://localhost:4000/rob-blog/posts/hello-world/" />
+    <author>
+      <name>Roberto Mac lean M.</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
